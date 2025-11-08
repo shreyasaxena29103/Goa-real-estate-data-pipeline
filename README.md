@@ -1,6 +1,6 @@
 # Goa-real-estate-data-pipeline
 End-to-end **data engineering pipeline** built in Databricks using Medallion architecture to process and analyze real estate listings in Goa.
-# 🏠 Real Estate Data Pipeline (Goa)
+#  Real Estate Data Pipeline (Goa)
 
 
 ##  Project Workflow
@@ -26,10 +26,8 @@ End-to-end **data engineering pipeline** built in Databricks using Medallion arc
 ![Dashboard Screenshot](powerbi/dashboard_screenshot.png)
 
 ---
-##  Files in This Repository
-
-'raw_data.csv' : The raw and scraped data
-'real_estate_data_pipeline.ipynb' : Complete Databricks notebook for the entire data pipeline 
-architecture/medallion_architecture.png : Pipeline architecture diagram 
-'powerbi/dashboard_screenshot.png' : Power BI dashboard preview 
-
+## Files in This Repository
+`raw_data.csv` : The raw and scraped data <br>
+`real_estate_data_pipeline.ipynb` : Complete Databricks notebook for the entire data pipeline <br>
+`architecture/medallion_architecture.png` : Pipeline architecture diagram <br>
+`powerbi/dashboard_screenshot.png` : Power BI dashboard preview
