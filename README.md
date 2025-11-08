@@ -30,5 +30,5 @@ End-to-end **data engineering pipeline** built in Databricks using Medallion arc
 `raw_data.csv` : The raw and scraped data <br>
 `real_estate_data_pipeline.ipynb` : Complete Databricks notebook for the entire data pipeline <br>
 `architecture/medallion_architecture.png` : Pipeline architecture diagram <br>
-'cleaned_data.csv' : The final cleaned dataset
+`cleaned_data.csv` : The final cleaned dataset
 `powerbi/dashboard_screenshot.png` : Power BI dashboard preview
